@@ -12,8 +12,6 @@ This project demonstrates interfacing a DC geared motor with an encoder and an M
 - [Wiring Setup](#wiring-setup)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [How to Run](#how-to-run)
-- [References](#references)
 
 ---
 
@@ -110,10 +108,4 @@ The code is organized as follows:
   - `stopMotor()`: Stops the motor.
   - `encoderISR()`: Handles encoder interrupts for tracking ticks.
 
----
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
